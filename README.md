@@ -1,9 +1,7 @@
 
 ![banner](https://github.com/user-attachments/assets/f28fa6a5-9e76-405f-a87d-9b1365f054a0)
 
-
-💫 About Me:
-Hi, I’m Debashish, a data analyst and data engineering student focused on turning complex data into actionable insights. I specialize in leveraging analytics to drive strategic decisions and streamline processes.<br><br>Core skills:<br><br>Python for data analysis and automation 🐍<br>Pandas, Plotly, Streamlit for data visualization 📊<br>Microsoft Power BI for business intelligence 📈<br>Proficient in Microsoft Office for efficient reporting and presentations 🖥️<br>
+Hi, I’m Dev, a data analyst and data engineering student focused on turning complex data into actionable insights. I specialize in leveraging analytics to drive strategic decisions and streamline processes.<br><br>Core skills:<br><br>Python for data analysis and automation 🐍<br>Pandas, Plotly, Streamlit for data visualization 📊<br>Microsoft Power BI for business intelligence 📈<br>Proficient in Microsoft Office for efficient reporting and presentations 🖥️<br>
 
 
 ## 🌐 Socials:
