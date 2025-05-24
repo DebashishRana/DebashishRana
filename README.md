@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/c9fbd631-e0e1-4e17-8b07-1262837d7171)
 
 
-# 💫 About Me:
+# 🧑‍💻 About Me:
 Hi, I’m Dev, a data analyst and data engineering student focused on turning complex data into actionable insights. I specialize in leveraging analytics to drive strategic decisions and streamline processes.<br><br>Core skills:<br><br>Python for data analysis and automation 🐍<br>Pandas, Plotly, Streamlit for data visualization 📊<br>Microsoft Power BI for business intelligence 📈<br>Proficient in Microsoft Office for efficient reporting and presentations 🖥️
 
 
