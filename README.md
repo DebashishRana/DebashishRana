@@ -1,4 +1,5 @@
-![banner]![mohammad-rahmani-oXlXu2qukGE-unsplash](https://github.com/user-attachments/assets/940584c0-f92a-4663-a4f0-e24981ba8c9d)
+
+![banner 2](https://github.com/user-attachments/assets/343aa31d-b7b3-4410-9813-846b6efd2ddb)
 
 
 # 🧑‍💻 About Me:
