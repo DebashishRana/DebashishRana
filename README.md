@@ -3,7 +3,7 @@
 
 
 # 🧑‍💻 About Me:
-Hi, I’m Dev, a data analyst and data engineering student  I specialize in leveraging analytics to drive strategic decisions and streamline processes.<br><br>Core skills:<br><br>Python for data analysis and automation 🐍<br>Pandas, Plotly, Streamlit for data visualization 📊<br>Microsoft Power BI for business intelligence 📈<br>Proficient in Microsoft Office for efficient reporting and presentations 🖥️
+Hi, I’m Dev, a data analyst and data engineering student with passion for data visualisation and automation.<br><br>Core skills:<br><br>Python for data analysis and automation 🐍<br>Pandas, Plotly, Streamlit for data visualization 📊<br>Microsoft Power BI for business intelligence 📈<br>Proficient in Microsoft Office for efficient reporting and presentations 🖥️
 
 
 ## 🌐 Socials:
