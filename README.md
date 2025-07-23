@@ -1,5 +1,6 @@
 
-![banner 2](https://github.com/user-attachments/assets/343aa31d-b7b3-4410-9813-846b6efd2ddb)
+<img width="1584" height="396" alt="Black Minimal Motivation Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/c4721ad3-42f4-4207-b93c-4504a1ca19cd" />
+
 
 
 # 🧑‍💻 About Me:
