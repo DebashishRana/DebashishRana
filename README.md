@@ -4,7 +4,7 @@
 
 # 🧑‍💻 About Me:
 Hi, I’m Dev, a data analyst and data engineering student with passion for data visualisation and automation. <br> What I love: Python for data analysis and automation and sometimes creating my own software! 🐍 <br> Libraries I really love : Pandas, Plotly, Streamlit for data visualization with Power Bi📊 <br> Hey and I sometimes hop on to Azure and GCP ☁️
-<br> :PS <br> I'm the developer of Veriquick  
+<br> :PS <br> I'm thefounder of app Veriquick  
 
 
 ## 🌐 Socials:
